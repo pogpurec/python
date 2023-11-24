@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${workspaceFolder}",
+            "pythonPath": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3",
+            "env": {},
+            "args": []
+        }
+    ]
+}
